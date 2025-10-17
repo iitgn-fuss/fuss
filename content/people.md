@@ -101,7 +101,7 @@ type: people
     <div class="person-info">
       <h3 class="person-name">Subhrajit Das</h3>
       <p class="person-title">1st Year Ph.D.</p>
-      <p class="person-period">Dec 2023 - Present</p>
+      <p class="person-period">July 2023 - Present</p>
       <div class="research-focus-phrases">
         <span>Parallelism</span>
         <span class="research-focus-separator">|</span>
