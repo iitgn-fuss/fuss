@@ -2,7 +2,7 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-baseURL: https://iamsubhrajit10.github.io/fuss
+baseURL: https://iitgn-fuss.github.io/
 languageCode: en-us
 title: FUSS Group @ IITGn
 theme: hextra 

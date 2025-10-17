@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FUSS Group @ IITGn – Group</title>
-    <link>http://localhost:1313/fuss/tags/group/</link>
+    <link>http://localhost:1313/tags/group/</link>
     <description>Recent content in Group on FUSS Group @ IITGn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/fuss/tags/group/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/tags/group/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Incubation of FUSS!</title>
-      <link>http://localhost:1313/fuss/news/formation-fuss/</link>
+      <link>http://localhost:1313/news/formation-fuss/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fuss/news/formation-fuss/</guid>
+      <guid>http://localhost:1313/news/formation-fuss/</guid>
       <description>
         
         

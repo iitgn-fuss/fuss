@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/fuss/tags/announcement/</loc>
+    <loc>http://localhost:1313/tags/announcement/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fuss/tags/group/</loc>
+    <loc>http://localhost:1313/tags/group/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fuss/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fuss/news/formation-fuss/</loc>
+    <loc>http://localhost:1313/news/formation-fuss/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fuss/news/</loc>
+    <loc>http://localhost:1313/news/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fuss/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fuss/tags/conference/</loc>
+    <loc>http://localhost:1313/tags/conference/</loc>
     <lastmod>2025-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fuss/news/gayatri-web-conf25/</loc>
+    <loc>http://localhost:1313/news/gayatri-web-conf25/</loc>
     <lastmod>2025-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fuss/tags/presentation/</loc>
+    <loc>http://localhost:1313/tags/presentation/</loc>
     <lastmod>2025-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fuss/tags/research/</loc>
+    <loc>http://localhost:1313/tags/research/</loc>
     <lastmod>2025-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fuss/tags/award/</loc>
+    <loc>http://localhost:1313/tags/award/</loc>
     <lastmod>2024-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fuss/news/abhishek-google-india-research-award-2024/</loc>
+    <loc>http://localhost:1313/news/abhishek-google-india-research-award-2024/</loc>
     <lastmod>2024-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fuss/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/fuss/blog/</loc>
+    <loc>http://localhost:1313/blog/</loc>
   </url><url>
-    <loc>http://localhost:1313/fuss/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/fuss/people/</loc>
+    <loc>http://localhost:1313/people/</loc>
   </url><url>
-    <loc>http://localhost:1313/fuss/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/fuss/publications/</loc>
+    <loc>http://localhost:1313/publications/</loc>
   </url>
 </urlset>

@@ -44,7 +44,7 @@ type: people
     <div class="person-info">
       <h3 class="person-name">Gayatri Priyadarsini Kancherla</h3>
       <p class="person-title">5th Year Ph.D.</p>
-      <p class="person-period">July 2020 - Present</p>
+      <p class="person-period">July 2021 - Present</p>
       <div class="research-focus-phrases">
         <span>Web Privacy</span>
         <span class="research-focus-separator">|</span>
@@ -63,7 +63,7 @@ type: people
     <div class="person-info">
       <h3 class="person-name">Sreyashi Karmakar</h3>
       <p class="person-title">2nd Year Ph.D.</p>
-      <p class="person-period">July 2023 - Present</p>
+      <p class="person-period">July 2024 - Present</p>
       <div class="research-focus-phrases">
         <span>Blockchain Security</span>
         <span class="research-focus-separator">|</span>
@@ -82,7 +82,7 @@ type: people
     <div class="person-info">
       <h3 class="person-name">Krupa Rajani</h3>
       <p class="person-title">2nd Year Ph.D.</p>
-      <p class="person-period">July 2023 - Present</p>
+      <p class="person-period">July 2024 - Present</p>
       <div class="research-focus-phrases">
         <span>Network Security</span>
         <span class="research-focus-separator">|</span>
@@ -101,7 +101,7 @@ type: people
     <div class="person-info">
       <h3 class="person-name">Subhrajit Das</h3>
       <p class="person-title">1st Year Ph.D.</p>
-      <p class="person-period">July 2024 - Present</p>
+      <p class="person-period">Dec 2023 - Present</p>
       <div class="research-focus-phrases">
         <span>Parallelism</span>
         <span class="research-focus-separator">|</span>
@@ -135,8 +135,7 @@ type: people
 <h2 class="category-title">JRF</h2>
 <div class="people-grid">
 <!-- Add JRF here -->
-</div>
-</div> 
+<!-- </div> -->
 
 <!-- Past Members Section -->
 <div class="category-section">
