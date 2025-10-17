@@ -1,0 +1,65 @@
+/* Modern People Page Title Styling */
+.people-page h1 {
+    font-size: 3rem;
+    font-weight: 900;
+    background: linear-gradient(135deg, #1e293b, #3b82f6, #8b5cf6, #06b6d4);
+    background-size: 300% 300%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    margin: 2rem 0 1rem 0;
+    animation: gradientShift 8s ease-in-out infinite;
+    letter-spacing: -0.02em;
+    text-shadow: 0 0 40px rgba(59, 130, 246, 0.3);
+}
+
+@keyframes gradientShift {
+    0%, 100% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+}
+
+.people-page h1::after {
+    content: '';
+    display: block;
+    width: 100px;
+    height: 4px;
+    background: linear-gradient(90deg, #3b82f6, #8b5cf6, #06b6d4);
+    margin: 1rem auto;
+    border-radius: 2px;
+    animation: scaleIn 1s ease-out 0.5s both;
+}
+
+@keyframes scaleIn {
+    from { transform: scaleX(0); opacity: 0; }
+    to { transform: scaleX(1); opacity: 1; }
+}
+
+/* Remove the large margin-bottom div that appears after h1 on people page */
+body:has(.people-section) h1 + div,
+body:has(.people-section) h1 + div[class*="mb-"] {
+    margin-bottom: 0 !important;
+    display: none !important;
+    height: 0 !important;
+}
+
+/* Target all potential margin/padding classes */
+body:has(.people-section) [class*="hx:mb-"],
+body:has(.people-section) [class*="mb-16"] {
+    margin-bottom: 0 !important;
+}
+
+/* Ensure tight spacing between h1 and people-section */
+body:has(.people-section) h1 + * {
+    margin-top: 0 !important;
+}
+
+body:has(.people-section) h1 {
+    margin-bottom: 0.5rem !important;
+}
+
+/* Force the content div to have no top margin */
+body:has(.people-section) .content {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}

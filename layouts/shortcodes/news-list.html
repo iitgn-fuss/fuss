@@ -1,0 +1,49 @@
+{{/* News List Shortcode - Displays all news items as a list */}}
+{{ $newsPages := where .Site.RegularPages "Section" "news" }}
+{{ $allNews := $newsPages.ByDate.Reverse }}
+
+{{ if $allNews }}
+<div class="news-list">
+  {{ range $allNews }}
+    <article class="hx:mb-8 hx:pb-6 hx:border-b hx:border-gray-200 hx:dark:border-gray-700 last:hx:border-b-0">
+      <div class="hx:flex hx:items-start hx:gap-4">
+        <div class="hx:flex-shrink-0 hx:text-center hx:min-w-[80px]">
+          <div class="hx:text-sm hx:font-medium hx:text-blue-600 hx:dark:text-blue-400">
+            {{ .Date.Format "Jan 02" }}
+          </div>
+          <div class="hx:text-xs hx:text-gray-500 hx:dark:text-gray-400">
+            {{ .Date.Format "2006" }}
+          </div>
+        </div>
+        <div class="hx:flex-grow">
+          <h3 class="hx:text-lg hx:font-semibold hx:mb-2">
+            <a href="{{ .RelPermalink }}" class="hx:text-gray-900 hx:dark:text-gray-100 hx:hover:text-blue-600 hx:dark:hover:text-blue-400 hx:no-underline">
+              {{ .Title }}
+            </a>
+          </h3>
+          <p class="hx:text-gray-700 hx:dark:text-gray-300 hx:text-sm hx:leading-relaxed hx:mb-3">
+            {{ .Summary | default (truncate 150 (.Content | plainify)) }}
+          </p>
+          <div class="hx:flex hx:items-center hx:gap-4 hx:text-xs hx:text-gray-500 hx:dark:text-gray-400">
+            <span>{{ .Date.Format "January 2, 2006" }}</span>
+            {{ if .Params.tags }}
+              <span>•</span>
+              <div class="hx:flex hx:gap-2">
+                {{ range .Params.tags }}
+                  <span class="hx:bg-gray-100 hx:dark:bg-gray-800 hx:px-2 hx:py-1 hx:rounded hx:text-xs">
+                    {{ . }}
+                  </span>
+                {{ end }}
+              </div>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </article>
+  {{ end }}
+</div>
+{{ else }}
+<div class="hx:text-center hx:text-gray-600 hx:dark:text-gray-400 hx:py-8">
+  <p>No news items available yet.</p>
+</div>
+{{ end }}

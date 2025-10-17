@@ -1,0 +1,23 @@
+# FUSS Group @ IITGn
+
+> Formal and Usable Systems Security (FUSS) Group at IIT Gandhinagar
+
+
+## News
+- [Incubation of FUSS!](http://localhost:1313/fuss/news/formation-fuss/): We&rsquo;ve officially launched the FUSS group! - Published 2025-08-01
+- [Conference Presentation Success](http://localhost:1313/fuss/news/gayatri-web-conf25/): Gayatri&rsquo;s Work has been published at the Web Conference 2025 - Published 2025-01-20
+- [Google India Research Award 2024 goes to Prof. Abhishek Bichhawat!](http://localhost:1313/fuss/news/abhishek-google-india-research-award-2024/): Prof. Abhishek Bichhawat has been awarded the Google India Research Award 2024 - Published 2024-12-12
+
+## Blog
+
+
+## Root Pages
+- [About](http://localhost:1313/fuss/about/): To be added.
+- [People](http://localhost:1313/fuss/people/): Faculty Prof. Abhishek Bichhawat Assistant Professor
+Formal Methods & Verification | Web Security | …
+- [Projects](http://localhost:1313/fuss/projects/): To be added.
+- [Publications](http://localhost:1313/fuss/publications/): 2025 Conference Johnny can’t revoke consent either: measuring compliance of consent revocation on …
+
+---
+Generated on 2025-10-16 15:07:41 UTC
+Site: http://localhost:1313/fuss/

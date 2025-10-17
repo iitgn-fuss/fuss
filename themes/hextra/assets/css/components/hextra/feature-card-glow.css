@@ -1,0 +1,11 @@
+/* Glowing effect for feature cards on hover */
+.hextra-feature-card:hover {
+  box-shadow: 0 0 32px 8px rgba(59,130,246,0.25), 0 0 64px 16px rgba(194,97,254,0.18), 0 0 0 4px rgba(255,255,255,0.08);
+  transition: box-shadow 0.3s cubic-bezier(.4,0,.2,1), background 0.3s cubic-bezier(.4,0,.2,1);
+  background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.25),hsla(0,0%,100%,0));
+}
+
+.dark .hextra-feature-card:hover {
+  box-shadow: 0 0 40px 12px rgba(59,130,246,0.35), 0 0 80px 24px rgba(194,97,254,0.28), 0 0 0 6px rgba(255,255,255,0.12);
+  background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.35),rgba(59,130,246,0.12),hsla(0,0%,0%,0));
+}

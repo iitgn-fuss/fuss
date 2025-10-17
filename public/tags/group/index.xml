@@ -1,0 +1,33 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FUSS Group @ IITGn – Group</title>
+    <link>http://localhost:1313/fuss/tags/group/</link>
+    <description>Recent content in Group on FUSS Group @ IITGn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/fuss/tags/group/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Incubation of FUSS!</title>
+      <link>http://localhost:1313/fuss/news/formation-fuss/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fuss/news/formation-fuss/</guid>
+      <description>
+        
+        
+        &lt;p&gt;We are delighted to announce the official launch of the &lt;strong&gt;Formal and Usable Systems Security (FUSS) Group&lt;/strong&gt; at IIT Gandhinagar! Our mission is to advance the field of cybersecurity through rigorous formal methods and user-centered design principles.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

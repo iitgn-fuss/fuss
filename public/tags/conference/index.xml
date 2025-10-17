@@ -1,0 +1,33 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FUSS Group @ IITGn – Conference</title>
+    <link>http://localhost:1313/fuss/tags/conference/</link>
+    <description>Recent content in Conference on FUSS Group @ IITGn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Jan 2025 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/fuss/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Conference Presentation Success</title>
+      <link>http://localhost:1313/fuss/news/gayatri-web-conf25/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fuss/news/gayatri-web-conf25/</guid>
+      <description>
+        
+        
+        &lt;p&gt;We are delighted to announce that Gayatri&amp;rsquo;s work has been published at the Web Conference 2025.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
