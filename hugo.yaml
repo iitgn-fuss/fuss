@@ -3,6 +3,7 @@ markup:
     renderer:
       unsafe: true
 baseURL: https://iitgn-fuss.github.io/
+canonifyURLs: true
 languageCode: en-us
 title: FUSS Group @ IITGn
 theme: hextra 
