@@ -11,7 +11,7 @@ type: people
 <h2 class="category-title">Faculty</h2>
 <div class="faculty-grid">
 <div class="person-card faculty-card" style="cursor: pointer; position: relative;">
-  <a href="https://abhishek.people.iitgn.ac.in" target="_blank" style="position: absolute; inset: 0; z-index: 1; opacity: 0;" aria-label="Prof. Abhishek Bichhawat's homepage"></a>
+  <a href="https://iitgn-fuss.github.io/people/abhishek" target="_blank" style="position: absolute; inset: 0; z-index: 1; opacity: 0;" aria-label="Prof. Abhishek Bichhawat's homepage"></a>
   <div class="person-content" style="position: relative; z-index: 2; pointer-events: none;">
     <img src="../images/people/abhishek.jpg" alt="Prof. Abhishek Bichhawat" class="person-image">
     <div class="person-info">

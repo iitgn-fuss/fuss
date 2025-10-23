@@ -1,11 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Courses on Abhishek Bichhawat</title><link>https://iitgn-fuss.github.io/people/abhishek/tags/courses/</link><description>Recent content in Courses on Abhishek Bichhawat</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://iitgn-fuss.github.io/people/abhishek/tags/courses/index.xml" rel="self" type="application/rss+xml"/><item><title>Teaching</title><link>https://iitgn-fuss.github.io/people/abhishek/teaching/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://iitgn-fuss.github.io/people/abhishek/teaching/</guid><description>&lt;h3 id="current-courses"&gt;Current Courses&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Aug 2023&lt;/strong&gt;&lt;/p&gt;
-&lt;h4 id="cs301---operating-systems"&gt;&lt;a href="https://sites.google.com/iitgn.ac.in/cs301/"&gt;CS301 - Operating Systems&lt;/a&gt;&lt;/h4&gt;
-&lt;hr&gt;
-&lt;h2 id="previously-taught"&gt;Previously Taught&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Jan 2022&lt;/strong&gt;&lt;/p&gt;
-&lt;h4 id="cs327---compilers"&gt;&lt;a href="https://sites.google.com/iitgn.ac.in/cs327/"&gt;CS327 - Compilers&lt;/a&gt;&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;Jan 2022&lt;/strong&gt;&lt;/p&gt;
-&lt;h4 id="cs431---computer-and-network-security"&gt;&lt;a href="https://sites.google.com/iitgn.ac.in/cs431/"&gt;CS431 - Computer and Network Security&lt;/a&gt;&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;Aug 2021&lt;/strong&gt;&lt;/p&gt;
-&lt;h4 id="cs301---operating-systems-1"&gt;&lt;a href="https://sites.google.com/iitgn.ac.in/cs301/"&gt;CS301 - Operating Systems&lt;/a&gt;&lt;/h4&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses on Abhishek Bichhawat</title>
+    <link>https://iitgn-fuss.github.io/people/abhishek/tags/courses/</link>
+    <description>Recent content in Courses on Abhishek Bichhawat</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://iitgn-fuss.github.io/people/abhishek/tags/courses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teaching</title>
+      <link>https://iitgn-fuss.github.io/people/abhishek/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://iitgn-fuss.github.io/people/abhishek/teaching/</guid>
+      <description>&lt;h3 id=&#34;current-courses&#34;&gt;Current Courses&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Aug 2023&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;cs301---operating-systems&#34;&gt;&lt;a href=&#34;https://sites.google.com/iitgn.ac.in/cs301/&#34;&gt;CS301 - Operating Systems&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;previously-taught&#34;&gt;Previously Taught&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Jan 2022&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;cs327---compilers&#34;&gt;&lt;a href=&#34;https://sites.google.com/iitgn.ac.in/cs327/&#34;&gt;CS327 - Compilers&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;Jan 2022&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;cs431---computer-and-network-security&#34;&gt;&lt;a href=&#34;https://sites.google.com/iitgn.ac.in/cs431/&#34;&gt;CS431 - Computer and Network Security&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;Aug 2021&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;cs301---operating-systems-1&#34;&gt;&lt;a href=&#34;https://sites.google.com/iitgn.ac.in/cs301/&#34;&gt;CS301 - Operating Systems&lt;/a&gt;&lt;/h4&gt;</description>
+    </item>
+  </channel>
+</rss>
