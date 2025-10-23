@@ -95,7 +95,7 @@ type: people
 </div>
 
 <div class="person-card" style="cursor: pointer; position: relative;">
-  <a href="https://iamsubhrajit10.me/" target="_blank" style="position: absolute; inset: 0; z-index: 1; opacity: 0;" aria-label="Subhrajit Das's homepage"></a>
+  <a href="https://iitgn-fuss.github.io/people/subhrajit/" target="_blank" style="position: absolute; inset: 0; z-index: 1; opacity: 0;" aria-label="Subhrajit Das's homepage"></a>
   <div class="person-content" style="position: relative; z-index: 2; pointer-events: none;">
     <img src="../images/people/subhrajit.jpg" alt="Subhrajit Das" class="person-image">
     <div class="person-info">
