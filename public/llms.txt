@@ -4,20 +4,20 @@
 
 
 ## News
-- [Incubation of FUSS!](http://localhost:1313/news/formation-fuss/): We&rsquo;ve officially launched the FUSS group! - Published 2025-08-01
-- [Conference Presentation Success](http://localhost:1313/news/gayatri-web-conf25/): Gayatri&rsquo;s Work has been published at the Web Conference 2025 - Published 2025-01-20
-- [Google India Research Award 2024 goes to Prof. Abhishek Bichhawat!](http://localhost:1313/news/abhishek-google-india-research-award-2024/): Prof. Abhishek Bichhawat has been awarded the Google India Research Award 2024 - Published 2024-12-12
+- [Incubation of FUSS!](https://iitgn-fuss.github.io/news/formation-fuss/): We&rsquo;ve officially launched the FUSS group! - Published 2025-08-01
+- [Conference Presentation Success](https://iitgn-fuss.github.io/news/gayatri-web-conf25/): Gayatri&rsquo;s Work has been published at the Web Conference 2025 - Published 2025-01-20
+- [Google India Research Award 2024 goes to Prof. Abhishek Bichhawat!](https://iitgn-fuss.github.io/news/abhishek-google-india-research-award-2024/): Prof. Abhishek Bichhawat has been awarded the Google India Research Award 2024 - Published 2024-12-12
 
 ## Blog
 
 
 ## Root Pages
-- [About](http://localhost:1313/about/): To be added.
-- [People](http://localhost:1313/people/): Faculty Prof. Abhishek Bichhawat Assistant Professor
+- [About](https://iitgn-fuss.github.io/about/): To be added.
+- [People](https://iitgn-fuss.github.io/people/): Faculty Prof. Abhishek Bichhawat Assistant Professor
 Formal Methods & Verification | Web Security | …
-- [Projects](http://localhost:1313/projects/): To be added.
-- [Publications](http://localhost:1313/publications/): 2025 Conference Johnny can’t revoke consent either: measuring compliance of consent revocation on …
+- [Projects](https://iitgn-fuss.github.io/projects/): To be added.
+- [Publications](https://iitgn-fuss.github.io/publications/): 2025 Conference Johnny can’t revoke consent either: measuring compliance of consent revocation on …
 
 ---
-Generated on 2025-10-23 22:49:23 UTC
-Site: http://localhost:1313/
+Generated on 2025-10-23 23:05:20 UTC
+Site: https://iitgn-fuss.github.io/
