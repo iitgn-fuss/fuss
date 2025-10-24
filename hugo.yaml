@@ -81,6 +81,8 @@ menu:
 params:
   description: Formal and Usable Systems Security (FUSS) Group at IIT Gandhinagar
 
+  staticPath: "/"
+
   navbar:
     displayTitle: true
     displayLogo: true
