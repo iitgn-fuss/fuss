@@ -11,11 +11,11 @@ type: people
 <h2 class="category-title">Faculty</h2>
 <div class="faculty-grid">
 <div class="person-card faculty-card" style="cursor: pointer; position: relative;">
-  <a href="https://iitgn-fuss.github.io/people/abhishek" target="_blank" style="position: absolute; inset: 0; z-index: 1; opacity: 0;" aria-label="Prof. Abhishek Bichhawat's homepage"></a>
+  <a href="https://iitgn-fuss.github.io/people/abhishek" target="_blank" style="position: absolute; inset: 0; z-index: 1; opacity: 0;" aria-label="Abhishek Bichhawat's homepage"></a>
   <div class="person-content" style="position: relative; z-index: 2; pointer-events: none;">
-    <img src="../images/people/abhishek.jpg" alt="Prof. Abhishek Bichhawat" class="person-image">
+    <img src="../images/people/abhishek.jpg" alt="Abhishek Bichhawat" class="person-image">
     <div class="person-info">
-      <h3 class="person-name">Prof. Abhishek Bichhawat</h3>
+      <h3 class="person-name">Abhishek Bichhawat</h3>
       <p class="person-title">Assistant Professor</p>
       <div class="research-focus-phrases">
         <span>Formal Methods & Verification</span>
@@ -70,25 +70,6 @@ type: people
         <span>Post-Quantum Cryptography</span>
         <span class="research-focus-separator">|</span>
         <span>Zero-Knowledge Proofs</span>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="person-card" style="cursor: pointer; position: relative;">
-  <a href="mailto:krupa.shah@iitgn.ac.in" style="position: absolute; inset: 0; z-index: 1; opacity: 0;" aria-label="Email Krupa Rajani"></a>
-  <div class="person-content" style="position: relative; z-index: 2; pointer-events: none;">
-    <img src="../images/people/default-avatar.svg" alt="Krupa HCR" class="person-image">
-    <div class="person-info">
-      <h3 class="person-name">Krupa Rajani</h3>
-      <p class="person-title">2nd Year Ph.D.</p>
-      <p class="person-period">July 2024 - Present</p>
-      <div class="research-focus-phrases">
-        <span>Network Security</span>
-        <span class="research-focus-separator">|</span>
-        <span>Modern Cryptography</span>
-        <span class="research-focus-separator">|</span>
-        <span>Blockchain Technologies</span>
       </div>
     </div>
   </div>
