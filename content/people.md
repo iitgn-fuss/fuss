@@ -84,7 +84,9 @@ type: people
       <p class="person-title">1st Year Ph.D.</p>
       <p class="person-period">July 2023 - Present</p>
       <div class="research-focus-phrases">
-        <span>Parallelism</span>
+        <span>CPU Parallelism</span>
+        <span class="research-focus-separator">|</span>
+        <span>Distributed Systems</span>
         <span class="research-focus-separator">|</span>
         <span>Usable Security</span>
       </div>

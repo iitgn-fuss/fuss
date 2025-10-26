@@ -14,11 +14,11 @@
 
 ## Root Pages
 - [About](http://localhost:1313/about/): To be added.
-- [People](http://localhost:1313/people/): Faculty Prof. Abhishek Bichhawat Assistant Professor
+- [People](http://localhost:1313/people/): Faculty Abhishek Bichhawat Assistant Professor
 Formal Methods & Verification | Web Security | …
 - [Projects](http://localhost:1313/projects/): To be added.
 - [Publications](http://localhost:1313/publications/): 2025 Johnny can’t revoke consent either: measuring compliance of consent revocation on the web GP …
 
 ---
-Generated on 2025-10-24 14:13:57 UTC
+Generated on 2025-10-26 12:50:31 UTC
 Site: http://localhost:1313/
