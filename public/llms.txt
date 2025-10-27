@@ -3,6 +3,8 @@
 > Formal and Usable Systems Security (FUSS) Group at IIT Gandhinagar
 
 
+## Interesting-Reads
+
 ## News
 - [Gayatri got the Google PhD Fellowship 2025!](https://iitgn-fuss.github.io/news/gayatri-google-phd-fellowship/): Gayatri has been awarded the Google PhD Fellowship 2025 in Privacy, Safety, and Security - Published 2025-09-15
 - [Gayatri presented her work at PETS 2025](https://iitgn-fuss.github.io/news/gayatri-pets25/): Gayatri presented her work at the Privacy Enhancing Technologies Symposium 2025 - Published 2025-07-20
@@ -20,5 +22,5 @@ Formal Methods & Verification | Web Security | …
 - [Publications](https://iitgn-fuss.github.io/publications/): 2026 “I Wonder if These Warnings Are Accurate”: Security and Privacy Advice in Nine Majority World …
 
 ---
-Generated on 2025-10-27 19:27:36 UTC
+Generated on 2025-10-27 19:40:08 UTC
 Site: https://iitgn-fuss.github.io/

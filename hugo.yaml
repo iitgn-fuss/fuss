@@ -67,8 +67,12 @@ menu:
       name: Publications
       pageRef: /publications
       weight: 5
-    - name: Search
+    - identifier: interesting-reads
+      name: Interesting Reads
+      pageRef: /interesting-reads
       weight: 6
+    - name: Search
+      weight: 7
       params:
         type: search
 

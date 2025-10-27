@@ -1,0 +1,19 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FUSS Group @ IITGn – Interesting-Reads</title>
+    <link>https://iitgn-fuss.github.io/interesting-reads/</link>
+    <description>Recent content in Interesting-Reads on FUSS Group @ IITGn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Oct 2025 11:30:00 +0530</lastBuildDate>
+    
+	  <atom:link href="https://iitgn-fuss.github.io/interesting-reads/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>
