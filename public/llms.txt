@@ -17,8 +17,8 @@
 - [People](https://iitgn-fuss.github.io/people/): Faculty Abhishek Bichhawat Assistant Professor
 Formal Methods & Verification | Web Security | …
 - [Projects](https://iitgn-fuss.github.io/projects/): To be added.
-- [Publications](https://iitgn-fuss.github.io/publications/): 2025 Johnny can’t revoke consent either: measuring compliance of consent revocation on the web GP …
+- [Publications](https://iitgn-fuss.github.io/publications/): 2026 “I Wonder if These Warnings Are Accurate”: Security and Privacy Advice in Nine Majority World …
 
 ---
-Generated on 2025-10-27 19:08:08 UTC
+Generated on 2025-10-27 19:27:36 UTC
 Site: https://iitgn-fuss.github.io/

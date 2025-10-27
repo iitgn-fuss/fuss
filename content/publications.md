@@ -3,79 +3,93 @@ title: "Publications"
 layout: "single"
 tags: ["research", "publications"]
 ---
+## 2026
+
+**“I Wonder if These Warnings Are Accurate”: Security and Privacy Advice in Nine Majority World Countries**   
+Collins W. Munyendo, Veronica A. Rivera, Jackie Hu, Emmanuel Tweneboah, Amna Shahnawaz, Karen Sowon, Dilara Kekulluoglu, Marcos Silva, Yue Deng, Mercy Omeiza, Gayatri Priyadarsini Kancherla, Maria Rosario Niniz Silva, Maryam Mustafa, Abhishek Bichhawat, Francisco Marmolejo-Cossio, Elissa M. Redmiles, Yixin Zou   
+*47th IEEE Symposium on Security and Privacy (Oakland)*, May 2026
+
 ## 2025
+**Fall-through Semantics for Mitigating Timing-based Side Channel Leaks**   
+Aniket Mishra and Abhishek Bichhawat   
+*45th IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS)*, December 2025
+
 
 **[Johnny can’t revoke consent either: measuring compliance of consent revocation on the web](https://petsymposium.org/popets/2025/popets-2025-0133.pdf)**          
 GP Kancherla, N Bielova, C Santos, A Bichhawat          
-*Proceedings on Privacy Enhancing Technologies*, 2025
+*Proceedings on Privacy Enhancing Technologies*, July 2025
 
 **[How Usable is Consent Withdrawal on the Web? UI Requirements and Expert Evaluation](https://hal.science/hal-05302086v1/file/APVP_25__Usability_Consent_Withdrawal.pdf)**    
 S Ahuja, GP Kancherla, CT Santos, N Bielova, A Bichhawat          
 *HAL open science*, 2025
 
+**[On the Prevalence and Usage of Commit Signing on GitHub: A Longitudinal and Cross-Domain Study](https://arxiv.org/pdf/2504.19215)**    
+A Sharma, S Karmakar, GP Kancherla, A Bichhawat    
+*Evaluation and Assessment in Software Engineering (EASE) 2025*, June 2025
+
 **[Least Privilege Access for Persistent Storage Mechanisms in Web Browsers](https://dl.acm.org/doi/pdf/10.1145/3696410.3714887)**    
 GP Kancherla, D Goel, A Bichhawat          
-*Proceedings of the ACM on Web Conference 2025*, 2025
+*Proceedings of the ACM on Web Conference 2025*, April 2025
 
 **[A Unified Browser-Based Consent Management Framework](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=JX0CWckAAAAJ&pagesize=100&citation_for_view=JX0CWckAAAAJ:hFOr9nPyWt4C)**    
 GP Kancherla, A Bichhawat    
-*47th International Conference on Software Engineering: New Ideas and Emerging Results (ICSE-NIER)*, 2025
-
-**[On the Prevalence and Usage of Commit Signing on GitHub: A Longitudinal and Cross-Domain Study](https://arxiv.org/pdf/2504.19215)**    
-A Sharma, S Karmakar, GP Kancherla, A Bichhawat    
-*Evaluation and Assessment in Software Engineering (EASE) 2025*, 2025
+*47th International Conference on Software Engineering: New Ideas and Emerging Results (ICSE-NIER)*, April 2025
 
 **[Worst-Case Response Time Analysis for Periodic Programs with Nested Locks](https://dl.acm.org/doi/pdf/10.1145/3717383.3717392)**    
 HM Ramolia, SS Kanawade, A Bichhawat    
-*Proceedings of the 18th Innovations in Software Engineering Conference*, 2025
+*Proceedings of the 18th Innovations in Software Engineering Conference*, February 2025
 
 ---
 ## 2024
 
 **[Online Authentication Habits of Indian Users](https://arxiv.org/pdf/2501.14330)**    
 P Choudhary, S Das, MP Potta, P Das, A Bichhawat    
-*2024 Conference on Building a Secure & Empowered Cyberspace (BuildSEC)*, 2024
+*2024 Conference on Building a Secure & Empowered Cyberspace (BuildSEC)*, December 2024
 
 **[Web Privacy Perceptions Amongst Indian Users](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=JX0CWckAAAAJ&pagesize=100&citation_for_view=JX0CWckAAAAJ:ZeXyd9-uunAC)**    
 G Priyadarsini, A Saxena, A Dey, Prakriti, A Bichhawat    
-*International Conference on Information Systems Security*, 2024
+*International Conference on Information Systems Security*, December 2024
 
 ---
 ## 2023
 
-**[Towards Usable Security Analysis Tools for {Trigger-Action} Programming](https://www.usenix.org/system/files/soups2023-mccall.pdf)**    
-McKenna McCall, Eric Zeng, Faysal Hossain Shezan, Mitchell Yang, Lujo Bauer, Abhishek Bichhawat, Camille Cobb, Limin Jia, Yuan Tian    
-*Nineteenth Symposium on Usable Privacy and Security (SOUPS 2023)*, 2023
+**[Tainted Secure Multi-Execution to Restrict Attacker Influence](https://dl.acm.org/doi/pdf/10.1145/3576915.3623110)**    
+MK McCall, A Bichhawat, L Jia    
+*Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security*, November 2023
 
 **[Layered Symbolic Security Analysis in](https://elib.uni-stuttgart.de/bitstreams/c91e5288-7d38-40c6-849b-d0bc54e09cb4/download)**    
 Karthikeyan Bhargavan, Abhishek Bichhawat, Pedram Hosseyni, Ralf Küsters, Klaas Pruiksma, Guido Schmitz, Clara Waldmann, Tim Würtele    
-*European Symposium on Research in Computer Security*, 2023
+*European Symposium on Research in Computer Security*, September 2023
 
-**[Tainted Secure Multi-Execution to Restrict Attacker Influence](https://dl.acm.org/doi/pdf/10.1145/3576915.3623110)**    
-MK McCall, A Bichhawat, L Jia    
-*Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security*, 2023
+**[Towards Usable Security Analysis Tools for {Trigger-Action} Programming](https://www.usenix.org/system/files/soups2023-mccall.pdf)**    
+McKenna McCall, Eric Zeng, Faysal Hossain Shezan, Mitchell Yang, Lujo Bauer, Abhishek Bichhawat, Camille Cobb, Limin Jia, Yuan Tian    
+*Nineteenth Symposium on Usable Privacy and Security (SOUPS 2023)*, August 2023
 
 ---
 ## 2022
 
-**[Noise: A library of verified high-performance secure channel protocol implementations](https://inria.hal.science/hal-03946578/document)**    
-S Ho, J Protzenko, A Bichhawat, K Bhargavan    
-*2022 IEEE Symposium on Security and Privacy (SP)*, 2022
-
 **[Compositional information flow monitoring for reactive programs](https://par.nsf.gov/servlets/purl/10385222)**    
 MK McCall, A Bichhawat, L Jia    
-*2022 IEEE 7th European Symposium on Security and Privacy (EuroS&P)*, 2022
+*2022 IEEE 7th European Symposium on Security and Privacy (EuroS&P)*, June 2022
+
+**[Noise: A library of verified high-performance secure channel protocol implementations](https://inria.hal.science/hal-03946578/document)**    
+S Ho, J Protzenko, A Bichhawat, K Bhargavan    
+*2022 IEEE Symposium on Security and Privacy (SP)*, May 2022
 
 ---
 ## 2021
 
-**[DY*: A Modular Symbolic Verification Framework for Executable Cryptographic Protocol Code](https://inria.hal.science/hal-03178425/file/dy-star-eurosp21.pdf)**    
-Karthikeyan Bhargavan, Abhishek Bichhawat, Quoc Huy Do, Pedram Hosseyni, Ralf Küsters, Guido Schmitz, Tim Würtele   
-*2021 IEEE European Symposium on Security and Privacy (EuroS&P)*, 2021
-
 **[An in-depth symbolic security analysis of the ACME standard](https://eprint.iacr.org/2021/1457.pdf)**    
 Karthikeyan Bhargavan, Abhishek Bichhawat, Quoc Huy Do, Pedram Hosseyni, Ralf Küsters, Guido Schmitz, Tim Würtele   
-*Proceedings of the 2021 ACM SIGSAC conference on computer and communications security*, 2021
+*Proceedings of the 2021 ACM SIGSAC conference on computer and communications security*, November 2021
+
+**[A Tutorial-Style Introduction to DY*](https://publ.sec.uni-stuttgart.de/bhargavanbichhavatdohosseynikuestersschmitzwuertele-guttmanfest-2021.pdf)**    
+Karthikeyan Bhargavan, Abhishek Bichhawat, Quoc Huy Do, Pedram Hosseyni, Ralf Küsters, Guido Schmitz, Tim Würtele   
+*Protocols, Strands, and Logic: Essays Dedicated to Joshua Guttman on the Occasion of his 66.66 th Birthday*, November 2021
+
+**[DY*: A Modular Symbolic Verification Framework for Executable Cryptographic Protocol Code](https://inria.hal.science/hal-03178425/file/dy-star-eurosp21.pdf)**    
+Karthikeyan Bhargavan, Abhishek Bichhawat, Quoc Huy Do, Pedram Hosseyni, Ralf Küsters, Guido Schmitz, Tim Würtele   
+*2021 IEEE European Symposium on Security and Privacy (EuroS&P)*, September 2021
 
 **[SAFETAP: An efficient incremental analyzer for trigger-action programs](https://kilthub.cmu.edu/articles/report/SafeTAP_An_Efficient_Incremental_Analyzer_for_Trigger-Action_Programs/14792271/1/files/28433025.pdf)**    
 McKenna McCall, Faysal Hossain Shezan, Abhishek Bichhawat, Camille Cobb, Limin Jia, Yuan Tian, Cooper Grace, Mitchell Yang   
@@ -83,11 +97,7 @@ McKenna McCall, Faysal Hossain Shezan, Abhishek Bichhawat, Camille Cobb, Limin J
 
 **[Gradual security types and gradual guarantees](https://par.nsf.gov/servlets/purl/10385221)**    
 A Bichhawat, MK McCall, L Jia   
-*2021 IEEE 34th Computer Security Foundations Symposium (CSF)*, 2021
-
-**[A Tutorial-Style Introduction to DY*](https://publ.sec.uni-stuttgart.de/bhargavanbichhavatdohosseynikuestersschmitzwuertele-guttmanfest-2021.pdf)**    
-Karthikeyan Bhargavan, Abhishek Bichhawat, Quoc Huy Do, Pedram Hosseyni, Ralf Küsters, Guido Schmitz, Tim Würtele   
-*Protocols, Strands, and Logic: Essays Dedicated to Joshua Guttman on the Occasion of his 66.66 th Birthday*, 2021
+*2021 IEEE 34th Computer Security Foundations Symposium (CSF)*, June 2021
 
 **[Permissive runtime information flow control in the presence of exceptions](https://people.mpi-sws.org/~dg/papers/jcs21.pdf)**    
 A Bichhawat, V Rajani, D Garg, C Hammer   
@@ -99,7 +109,7 @@ Karthikeyan Bhargavan, Abhishek Bichhawat, Quoc Huy Do, Pedram Hosseyni, Ralf K�
 
 **[Automating Audit with Policy Inference](https://www.cs.cmu.edu/~abichhaw/fullpublication/CSF21.pdf)**    
 A Bichhawat, M Fredrikson, J Yang   
-*2021 IEEE 34th Computer Security Foundations Symposium (CSF)*, 2021
+*2021 IEEE 34th Computer Security Foundations Symposium (CSF)*, June 2021
 
 ---
 ## 2020
@@ -132,29 +142,29 @@ V Rajani, A Bichhawat, D Garg, C Hammer
 
 **[Post-dominator analysis for precisely handling implicit flows](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=JX0CWckAAAAJ&pagesize=100&citation_for_view=JX0CWckAAAAJ:8k81kl-MbHgC)**    
 A Bichhawat   
-*IEEE/ACM 37th IEEE International Conference on Software Engineering*, 2015
+*IEEE/ACM 37th IEEE International Conference on Software Engineering*, May 2015
 
 ---
 ## 2014
 
 **[Information flow control in WebKit’s JavaScript bytecode](https://arxiv.org/pdf/1401.4339)**    
 A Bichhawat, V Rajani, D Garg, C Hammer   
-*International conference on principles of security and trust*, 2014
+*International conference on principles of security and trust*, April 2014
 
 **[Generalizing permissive-upgrade in dynamic information flow analysis](https://arxiv.org/pdf/1506.03950)**    
 A Bichhawat, V Rajani, D Garg, C Hammer   
-*Proceedings of the Ninth Workshop on Programming Languages and Analysis for Security*, 2014
+*Proceedings of the Ninth Workshop on Programming Languages and Analysis for Security*, July 2014
 
 **[Exception handling for dynamic information flow control](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=JX0CWckAAAAJ&pagesize=100&citation_for_view=JX0CWckAAAAJ:5nxA0vEk-isC)**    
 A Bichhawat
-*Companion Proceedings of the 36th International Conference on Software …*, 2014
+*Companion Proceedings of the 36th International Conference on Software …*, May 2014
 
 ---
 ## 2011
 
 **[Security architecture for virtual machines](https://www.academia.edu/download/47964836/Security_architecture_for_virtual_machines.pdf)**    
 U Tupakula, V Varadharajan, A Bichhawat   
-*International Conference on Algorithms and Architectures for Parallel …*, 2011
+*International Conference on Algorithms and Architectures for Parallel …*, October 2011
 
 **[Proactive Fault Tolerance Technique for a Mobile Grid Environment](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=JX0CWckAAAAJ&pagesize=100&citation_for_view=JX0CWckAAAAJ:roLk4NBRz8UC)**    
 A Bichhawat, RC Joshi   
